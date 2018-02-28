@@ -1,0 +1,333 @@
+Mainland China
+Tianjin
+Beijing
+Chongqing
+Shanghai
+Guangzhou
+Shenzhen
+Chengdu
+Wuhan
+Hangzhou
+Harbin
+Shenyang
+Nanjing
+Jinan
+Hefei
+Ningbo
+Changchun
+Shijiazhuang
+Dalian
+Fuzhou
+Zhengzhou
+Changsha
+Qingdao
+Suzhou
+Shantou
+Xian
+Guiyang
+Nanning
+Nantong
+Tangshan
+Xiamen
+Wuxi
+Kunming
+Taiyuan
+Nanchang
+Quanzhou
+Daqing
+Wenzhou
+Zhangzhou
+Hong Kong
+Macau
+Taiwan
+New Taipei
+Kaohsiung
+Taichung
+Taipei
+Taoyuan
+Tainan
+Hsinchu
+Keelung
+Chiayi
+Changhua
+Pingtung
+Zhubei
+Yuanlin
+Douliu
+Taitung
+Hualien
+Toufen
+Nantou
+Yilan
+Miaoli
+Magong
+Puzi
+Taibao
+China
+Hong Kong
+Japan
+Tokyo
+Yokohama
+Osaka
+Nagoya
+Sapporo
+Fukuoka
+Kobe
+Kawasaki
+Kyoto
+Saitama
+Hiroshima
+Sendai
+Chiba
+Kitakyushu
+Macau
+South Korea
+Seoul
+Busan
+Incheon
+Daegu
+Daejeon
+Suwon
+Ulsan
+Gwangju
+Seongnam
+Goyang
+Jeonju
+Cheongju
+Bucheon
+Anyang
+North Korea
+Pyongyang
+Hamhung
+Chongjin
+Nampo
+Wonsan
+Tanchon
+Sinuiju
+Kaechon
+Kaesong
+Sariwon
+Taiwan
+Brunei
+Bandar Seri Begawan
+Kuala Belait
+Seria
+Bangar
+Muara
+Tutong
+Kampong Ayer
+Jerudong
+Kota Batu, Brunei-Muara
+Panaga
+Cambodia
+Phnom Penh
+Ta Khmau
+Battambang
+Serei Saophoan
+Siem Reap
+Kampong Cham
+Sihanoukville
+Poipet
+Chbar Mon
+Kampot
+Indonesia
+Jakarta
+East Jakarta
+Surabaya
+Bandung
+Medan
+Bekasi
+West Jakarta
+South Jakarta
+Semarang
+Tangerang
+Depok
+North Jakarta
+Palembang
+South Tangerang
+Makassar
+Batam
+Central Jakarta
+Pekanbaru
+Bagor
+Bandar Lampung
+Padang
+Denpasar
+Malang
+Samarinda
+Tasikmalaya
+Banjarmasin
+Balikpapan
+Serang
+Jambi
+Cimahi
+Laos
+Vientiane
+Pakse
+Savannakhet
+Luang Prabang
+Xam Neua
+Phonsavan
+Thakhek
+Muang Xay
+Xaysomboun
+Pakxan
+Attapeu
+Ban Houayxay
+Luang Namtha
+Phongsali
+Sainyubuli
+Salavan
+Sekong
+Malaysia
+Kuala Lumpur
+Seberang Perai
+Kajang
+Klang
+Subang Jaya
+Penang Island
+Ipoh
+Petaling Jaya
+Selayang
+Shah Alam
+Johor Bahru Tengah
+Johor Bahru
+Malacca City
+Ampang Jaya
+Kota Kinabalu
+Sungai Petani
+Kuantan
+Alor Setar
+Tawau
+Sandakan
+Philippines
+Quezon City
+Manila
+Davao City
+Caloocan
+Cebu City
+Zamboanga City
+Taguig
+Antipolo
+Pasig
+Cagayan de Oro
+Bacolod
+Angeles
+Iloilo City-Guimaras
+Naga
+Baguio-LISTT
+Batangas City
+Singapore
+Changi
+Bedok
+Serangoon
+Hougang
+Geylang
+Bishan
+Ang Mo Kio
+Seletar
+Simpang
+Sembawang
+Woodlands
+Lim Chu Kang
+Choa Chu Kang
+Bukit Batok
+Jurong
+Queens Town
+Sentosa
+Novena
+Thailand
+Bangkok
+Nonthaburi
+Nakhon Ratchasima
+Chiang Mai
+Hat Yai
+Udon Thani
+Pak Kret
+Khon Kaen
+Chaophraya Surasak
+Ubon Ratchathani
+Nakhon Si Thammarat
+Nakhon Pathom
+Phitsanulok
+Pattaya
+Songkhla
+Surat Thani
+Rangsit
+Yala
+Phuket
+Samut Prakan
+Lampang
+Laem Chabang
+Chiang Rai
+Trang
+Phra Nakhon Si Ayutthaya
+Ko Samui
+Samut Sakhon
+Rayong
+Mae Sot
+Om Noi
+Sakon Nakhon
+Vietnam
+Ho Chi Minh City
+Hanoi
+Da Nang
+Hue
+Can Tho
+Haiphong
+Nha Trang
+Bien Hoa
+Vung Tau
+Hoi An
+Da Lat
+Qui Nhon
+Buon Ma Thuot
+Rach Gia
+Vinh
+Cam Ranh
+Ha Long
+Pleiku
+Long Xuyen
+Sa Pa
+My Tho
+Phan Thiet
+Australia
+Sydney
+Melbourne
+Brisbane
+Perth
+Adelaide
+Gold Coast - Tweed Heads
+Newcastle - Maitland
+Canberra - Queanbeyan
+Sunshine Coast
+Wollongong
+Hobart
+Geelong
+Townsville
+Cairns
+Darwin
+Toowoomba
+Ballarat
+Bendigo
+Albury - Wodonga
+Launceston
+Mackay
+Rockhampton
+Bunbury
+New Zealand
+Auckland
+Wellington
+Christchurch
+Hamilton
+Tauranga
+Napier - Hastings
+Dunedin
+Palmerston North
+Nelson
+Rotorua
+New Plymouth
+Whangarei
+Invercargill
+Whanganui
+Gisborne

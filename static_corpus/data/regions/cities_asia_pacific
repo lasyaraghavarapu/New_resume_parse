@@ -1,0 +1,689 @@
+(lp0
+S'Mainland China'
+p1
+aS'Tianjin'
+p2
+aS'Beijing'
+p3
+aS'Chongqing'
+p4
+aS'Shanghai'
+p5
+aS'Guangzhou'
+p6
+aS'Shenzhen'
+p7
+aS'Chengdu'
+p8
+aS'Wuhan'
+p9
+aS'Hangzhou'
+p10
+aS'Harbin'
+p11
+aS'Shenyang'
+p12
+aS'Nanjing'
+p13
+aS'Jinan'
+p14
+aS'Hefei'
+p15
+aS'Ningbo'
+p16
+aS'Changchun'
+p17
+aS'Shijiazhuang'
+p18
+aS'Dalian'
+p19
+aS'Fuzhou'
+p20
+aS'Zhengzhou'
+p21
+aS'Changsha'
+p22
+aS'Qingdao'
+p23
+aS'Suzhou'
+p24
+aS'Shantou'
+p25
+aS'Xian'
+p26
+aS'Guiyang'
+p27
+aS'Nanning'
+p28
+aS'Nantong'
+p29
+aS'Tangshan'
+p30
+aS'Xiamen'
+p31
+aS'Wuxi'
+p32
+aS'Kunming'
+p33
+aS'Taiyuan'
+p34
+aS'Nanchang'
+p35
+aS'Quanzhou'
+p36
+aS'Daqing'
+p37
+aS'Wenzhou'
+p38
+aS'Zhangzhou'
+p39
+aS'Hong Kong'
+p40
+aS'Macau'
+p41
+aS'Taiwan'
+p42
+aS'New Taipei'
+p43
+aS'Kaohsiung'
+p44
+aS'Taichung'
+p45
+aS'Taipei'
+p46
+aS'Taoyuan'
+p47
+aS'Tainan'
+p48
+aS'Hsinchu'
+p49
+aS'Keelung'
+p50
+aS'Chiayi'
+p51
+aS'Changhua'
+p52
+aS'Pingtung'
+p53
+aS'Zhubei'
+p54
+aS'Yuanlin'
+p55
+aS'Douliu'
+p56
+aS'Taitung'
+p57
+aS'Hualien'
+p58
+aS'Toufen'
+p59
+aS'Nantou'
+p60
+aS'Yilan'
+p61
+aS'Miaoli'
+p62
+aS'Magong'
+p63
+aS'Puzi'
+p64
+aS'Taibao'
+p65
+aS'China'
+p66
+aS'Hong Kong'
+p67
+aS'Japan'
+p68
+aS'Tokyo'
+p69
+aS'Yokohama'
+p70
+aS'Osaka'
+p71
+aS'Nagoya'
+p72
+aS'Sapporo'
+p73
+aS'Fukuoka'
+p74
+aS'Kobe'
+p75
+aS'Kawasaki'
+p76
+aS'Kyoto'
+p77
+aS'Saitama'
+p78
+aS'Hiroshima'
+p79
+aS'Sendai'
+p80
+aS'Chiba'
+p81
+aS'Kitakyushu'
+p82
+aS'Macau'
+p83
+aS'South Korea'
+p84
+aS'Seoul'
+p85
+aS'Busan'
+p86
+aS'Incheon'
+p87
+aS'Daegu'
+p88
+aS'Daejeon'
+p89
+aS'Suwon'
+p90
+aS'Ulsan'
+p91
+aS'Gwangju'
+p92
+aS'Seongnam'
+p93
+aS'Goyang'
+p94
+aS'Jeonju'
+p95
+aS'Cheongju'
+p96
+aS'Bucheon'
+p97
+aS'Anyang'
+p98
+aS'North Korea'
+p99
+aS'Pyongyang'
+p100
+aS'Hamhung'
+p101
+aS'Chongjin'
+p102
+aS'Nampo'
+p103
+aS'Wonsan'
+p104
+aS'Tanchon'
+p105
+aS'Sinuiju'
+p106
+aS'Kaechon'
+p107
+aS'Kaesong'
+p108
+aS'Sariwon'
+p109
+aS'Taiwan'
+p110
+aS'Brunei'
+p111
+aS'Bandar Seri Begawan'
+p112
+aS'Kuala Belait'
+p113
+aS'Seria'
+p114
+aS'Bangar'
+p115
+aS'Muara'
+p116
+aS'Tutong'
+p117
+aS'Kampong Ayer'
+p118
+aS'Jerudong'
+p119
+aS'Kota Batu, Brunei-Muara'
+p120
+aS'Panaga'
+p121
+aS'Cambodia'
+p122
+aS'Phnom Penh'
+p123
+aS'Ta Khmau'
+p124
+aS'Battambang'
+p125
+aS'Serei Saophoan'
+p126
+aS'Siem Reap'
+p127
+aS'Kampong Cham'
+p128
+aS'Sihanoukville'
+p129
+aS'Poipet'
+p130
+aS'Chbar Mon'
+p131
+aS'Kampot'
+p132
+aS'Indonesia'
+p133
+aS'Jakarta'
+p134
+aS'East Jakarta'
+p135
+aS'Surabaya'
+p136
+aS'Bandung'
+p137
+aS'Medan'
+p138
+aS'Bekasi'
+p139
+aS'West Jakarta'
+p140
+aS'South Jakarta'
+p141
+aS'Semarang'
+p142
+aS'Tangerang'
+p143
+aS'Depok'
+p144
+aS'North Jakarta'
+p145
+aS'Palembang'
+p146
+aS'South Tangerang'
+p147
+aS'Makassar'
+p148
+aS'Batam'
+p149
+aS'Central Jakarta'
+p150
+aS'Pekanbaru'
+p151
+aS'Bagor'
+p152
+aS'Bandar Lampung'
+p153
+aS'Padang'
+p154
+aS'Denpasar'
+p155
+aS'Malang'
+p156
+aS'Samarinda'
+p157
+aS'Tasikmalaya'
+p158
+aS'Banjarmasin'
+p159
+aS'Balikpapan'
+p160
+aS'Serang'
+p161
+aS'Jambi'
+p162
+aS'Cimahi'
+p163
+aS'Laos'
+p164
+aS'Vientiane'
+p165
+aS'Pakse'
+p166
+aS'Savannakhet'
+p167
+aS'Luang Prabang'
+p168
+aS'Xam Neua'
+p169
+aS'Phonsavan'
+p170
+aS'Thakhek'
+p171
+aS'Muang Xay'
+p172
+aS'Xaysomboun'
+p173
+aS'Pakxan'
+p174
+aS'Attapeu'
+p175
+aS'Ban Houayxay'
+p176
+aS'Luang Namtha'
+p177
+aS'Phongsali'
+p178
+aS'Sainyubuli'
+p179
+aS'Salavan'
+p180
+aS'Sekong'
+p181
+aS'Malaysia'
+p182
+aS'Kuala Lumpur'
+p183
+aS'Seberang Perai'
+p184
+aS'Kajang'
+p185
+aS'Klang'
+p186
+aS'Subang Jaya'
+p187
+aS'Penang Island'
+p188
+aS'Ipoh'
+p189
+aS'Petaling Jaya'
+p190
+aS'Selayang'
+p191
+aS'Shah Alam'
+p192
+aS'Johor Bahru Tengah'
+p193
+aS'Johor Bahru'
+p194
+aS'Malacca City'
+p195
+aS'Ampang Jaya'
+p196
+aS'Kota Kinabalu'
+p197
+aS'Sungai Petani'
+p198
+aS'Kuantan'
+p199
+aS'Alor Setar'
+p200
+aS'Tawau'
+p201
+aS'Sandakan'
+p202
+aS'Philippines'
+p203
+aS'Quezon City'
+p204
+aS'Manila'
+p205
+aS'Davao City'
+p206
+aS'Caloocan'
+p207
+aS'Cebu City'
+p208
+aS'Zamboanga City'
+p209
+aS'Taguig'
+p210
+aS'Antipolo'
+p211
+aS'Pasig'
+p212
+aS'Cagayan de Oro'
+p213
+aS'Bacolod'
+p214
+aS'Angeles'
+p215
+aS'Iloilo City-Guimaras'
+p216
+aS'Naga'
+p217
+aS'Baguio-LISTT'
+p218
+aS'Batangas City'
+p219
+aS'Singapore'
+p220
+aS'Changi'
+p221
+aS'Bedok'
+p222
+aS'Serangoon'
+p223
+aS'Hougang'
+p224
+aS'Geylang'
+p225
+aS'Bishan'
+p226
+aS'Ang Mo Kio'
+p227
+aS'Seletar'
+p228
+aS'Simpang'
+p229
+aS'Sembawang'
+p230
+aS'Woodlands'
+p231
+aS'Lim Chu Kang'
+p232
+aS'Choa Chu Kang'
+p233
+aS'Bukit Batok'
+p234
+aS'Jurong'
+p235
+aS'Queens Town'
+p236
+aS'Sentosa'
+p237
+aS'Novena'
+p238
+aS'Thailand'
+p239
+aS'Bangkok'
+p240
+aS'Nonthaburi'
+p241
+aS'Nakhon Ratchasima'
+p242
+aS'Chiang Mai'
+p243
+aS'Hat Yai'
+p244
+aS'Udon Thani'
+p245
+aS'Pak Kret'
+p246
+aS'Khon Kaen'
+p247
+aS'Chaophraya Surasak'
+p248
+aS'Ubon Ratchathani'
+p249
+aS'Nakhon Si Thammarat'
+p250
+aS'Nakhon Pathom'
+p251
+aS'Phitsanulok'
+p252
+aS'Pattaya'
+p253
+aS'Songkhla'
+p254
+aS'Surat Thani'
+p255
+aS'Rangsit'
+p256
+aS'Yala'
+p257
+aS'Phuket'
+p258
+aS'Samut Prakan'
+p259
+aS'Lampang'
+p260
+aS'Laem Chabang'
+p261
+aS'Chiang Rai'
+p262
+aS'Trang'
+p263
+aS'Phra Nakhon Si Ayutthaya'
+p264
+aS'Ko Samui'
+p265
+aS'Samut Sakhon'
+p266
+aS'Rayong'
+p267
+aS'Mae Sot'
+p268
+aS'Om Noi'
+p269
+aS'Sakon Nakhon'
+p270
+aS'Vietnam'
+p271
+aS'Ho Chi Minh City'
+p272
+aS'Hanoi'
+p273
+aS'Da Nang'
+p274
+aS'Hue'
+p275
+aS'Can Tho'
+p276
+aS'Haiphong'
+p277
+aS'Nha Trang'
+p278
+aS'Bien Hoa'
+p279
+aS'Vung Tau'
+p280
+aS'Hoi An'
+p281
+aS'Da Lat'
+p282
+aS'Qui Nhon'
+p283
+aS'Buon Ma Thuot'
+p284
+aS'Rach Gia'
+p285
+aS'Vinh'
+p286
+aS'Cam Ranh'
+p287
+aS'Ha Long'
+p288
+aS'Pleiku'
+p289
+aS'Long Xuyen'
+p290
+aS'Sa Pa'
+p291
+aS'My Tho'
+p292
+aS'Phan Thiet'
+p293
+aS'Australia'
+p294
+aS'Sydney'
+p295
+aS'Melbourne'
+p296
+aS'Brisbane'
+p297
+aS'Perth'
+p298
+aS'Adelaide'
+p299
+aS'Gold Coast - Tweed Heads'
+p300
+aS'Newcastle - Maitland'
+p301
+aS'Canberra - Queanbeyan'
+p302
+aS'Sunshine Coast'
+p303
+aS'Wollongong'
+p304
+aS'Hobart'
+p305
+aS'Geelong'
+p306
+aS'Townsville'
+p307
+aS'Cairns'
+p308
+aS'Darwin'
+p309
+aS'Toowoomba'
+p310
+aS'Ballarat'
+p311
+aS'Bendigo'
+p312
+aS'Albury - Wodonga'
+p313
+aS'Launceston'
+p314
+aS'Mackay'
+p315
+aS'Rockhampton'
+p316
+aS'Bunbury'
+p317
+aS'New Zealand'
+p318
+aS'Auckland'
+p319
+aS'Wellington'
+p320
+aS'Christchurch'
+p321
+aS'Hamilton'
+p322
+aS'Tauranga'
+p323
+aS'Napier - Hastings'
+p324
+aS'Dunedin'
+p325
+aS'Palmerston North'
+p326
+aS'Nelson'
+p327
+aS'Rotorua'
+p328
+aS'New Plymouth'
+p329
+aS'Whangarei'
+p330
+aS'Invercargill'
+p331
+aS'Whanganui'
+p332
+aS'Gisborne'
+p333
+aS'San Francisco'
+p334
+aS'HK'
+p335
+aS'Hawaii'
+p336
+aS'HongKong'
+p337
+aS'London'
+p338
+aS'US'
+p339
+aS'Europe'
+p340
+aS'Banladesh'
+p341
+aS'Latin America'
+p342
+aS'Chile'
+p343
+aS'Netherland'
+a.

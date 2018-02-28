@@ -1,0 +1,874 @@
+(lp0
+S'APC'
+p1
+aS'Abercrombie & Fitch'
+p2
+aS'Acne Studios'
+p3
+aS'Agnes b'
+p4
+aS'Aime Leon Dore'
+p5
+aS'Akris'
+p6
+aS'Alessandro Dell Acqua'
+p7
+aS'Alex Stenzel'
+p8
+aS'Alexander McQueen'
+p9
+aS'Alexander Wang'
+p10
+aS'Alexandre Herchcovitch'
+p11
+aS'Alexandre Vauthier'
+p12
+aS'Alfred Dunhill'
+p13
+aS'Ally Capellino'
+p14
+aS'Alon Livne'
+p15
+aS'Alpargatas'
+p16
+aS'Alpha Industries'
+p17
+aS'Alter es Kiss'
+p18
+aS'American Eagle Outfitters'
+p19
+aS'Ana Gonzalez'
+p20
+aS'Anderson & Sheppard'
+p21
+aS'Andre Laug'
+p22
+aS'Andres Sarda'
+p23
+aS'Andrew Marc'
+p24
+aS'Ann Demeulemeester'
+p25
+aS'Anna Sui'
+p26
+aS'Anna Valentine'
+p27
+aS'Anne Fontaine'
+p28
+aS'Anthony Vaccarello'
+p29
+aS'Aquascutum'
+p30
+aS'Armani'
+p31
+aS'Arvind'
+p32
+aS'Ascena Retail Group'
+p33
+aS'Asics'
+p34
+aS'Asos'
+p35
+aS'Aspinal of London'
+p36
+aS'Asprey'
+p37
+aS'Audience by Petrouiman'
+p38
+aS'Azzedine Alaia'
+p39
+aS'Badgley Mischka'
+p40
+aS'Balenciaga'
+p41
+aS'Bally'
+p42
+aS'Balmain'
+p43
+aS'Belle'
+p44
+aS'Belle & Bunty'
+p45
+aS'Bellville Sassoon'
+p46
+aS'Belvest'
+p47
+aS'Benoit Pierre Emery'
+p48
+aS'Benson & Clegg'
+p49
+aS'Berluti'
+p50
+aS'Beulah London'
+p51
+aS'Bill Blass Group'
+p52
+aS'BodyMap'
+p53
+aS'Boglioli'
+p54
+aS'Bonia'
+p55
+aS'Bontoni'
+p56
+aS'Boohoo Com'
+p57
+aS'Borsalino'
+p58
+aS'Bosideng'
+p59
+aS'Bottega Veneta'
+p60
+aS'Bouchra Jarrar'
+p61
+aS'Boue Soeurs'
+p62
+aS'BP Studio'
+p63
+aS'Brioni'
+p64
+aS'Brunello Cucinelli'
+p65
+aS'Bruno Magli'
+p66
+aS'Buckle'
+p67
+aS'Burberry'
+p68
+aS'Cacharel'
+p69
+aS'Caleres'
+p70
+aS'Calibre'
+p71
+aS'Calvin Klein'
+p72
+aS'Camilla and Marc'
+p73
+aS'Caraceni'
+p74
+aS'Carla Rigg'
+p75
+aS'Carlos Miele'
+p76
+aS'Carolina Herrera'
+p77
+aS'Carrera y Carrera'
+p78
+aS'Cato Fashion'
+p79
+aS'Celine'
+p80
+aS'Cerruti'
+p81
+aS'Cerruti 1881'
+p82
+aS'Cesare Paciotti'
+p83
+aS'Chanel'
+p84
+aS'Charlie Allen'
+p85
+aS'Charlotte Olympia'
+p86
+aS'Charvet Place Vendome'
+p87
+aS'Chico s'
+p88
+aS'Children s Place'
+p89
+aS'Childrensalon'
+p90
+aS'Chloe'
+p91
+aS'Chow Tai Fook'
+p92
+aS'Christian Lacroix'
+p93
+aS'Christian Louboutin'
+p94
+aS'Christian Roth'
+p95
+aS'Christine Dior'
+p96
+aS'Christopher Kane'
+p97
+aS'Chrome Hearts'
+p98
+aS'Cia Hering'
+p99
+aS'Clements Riberio'
+p100
+aS'Coach'
+p101
+aS'Colcci'
+p102
+aS'Comme des Garcons'
+p103
+aS'Common Projects'
+p104
+aS'Cornelia James'
+p105
+aS'Corneliani'
+p106
+aS'Costello Tagliapietra'
+p107
+aS'Crolla'
+p108
+aS'CuteCircuit'
+p109
+aS'Cutler and Gross'
+p110
+aS'DAKS'
+p111
+aS'Damani Dada'
+p112
+aS'Damiani'
+p113
+aS'Dan Liu'
+p114
+aS'Daniel Hechter'
+p115
+aS'DAS Collection'
+p116
+aS'Dean and Dan Caten'
+p117
+aS'Dege & Skinner'
+p118
+aS'Derek Lam'
+p119
+aS'Diane von Furstenberg'
+p120
+aS'Dillard s'
+p121
+aS'Dior'
+p122
+aS'Dior Homme'
+p123
+aS'Dirk Bikkembergs'
+p124
+aS'DKNY'
+p125
+aS'Dolce & Gabbana'
+p126
+aS'Dominique Aurientis'
+p127
+aS'Drake s'
+p128
+aS'Dries van Noten'
+p129
+aS'Dsw'
+p130
+aS'Duvelleroy'
+p131
+aS'E Thomas'
+p132
+aS'Elsa Schiaparelli'
+p133
+aS'Emilio Pucci'
+p134
+aS'Enfants Riches Deprimes'
+p135
+aS'Equipment'
+p136
+aS'Ermanno Scervino'
+p137
+aS'Ermenegildo Zegna'
+p138
+aS'Escada'
+p139
+aS'Esprit'
+p140
+aS'Etro'
+p141
+aS'Express'
+p142
+aS'Exte'
+p143
+aS'Faconnable'
+p144
+aS'Fast Retailing'
+p145
+aS'Fendi'
+p146
+aS'Ferdinando Sarmi'
+p147
+aS'Fiorucci'
+p148
+aS'Fossil'
+p149
+aS'Francesca s'
+p150
+aS'Franck Sorbier'
+p151
+aS'Frey Wille'
+p152
+aS'Frost French'
+p153
+aS'G Iii Apparel'
+p154
+aS'Gap'
+p155
+aS'Gareth Pugh'
+p156
+aS'Garo Sparo'
+p157
+aS'Genesco'
+p158
+aS'Georges Hobeika'
+p159
+aS'Geox'
+p160
+aS'Gerry Weber'
+p161
+aS'Gianfranco Ferre'
+p162
+aS'Gieves & Hawkes'
+p163
+aS'Gijin'
+p164
+aS'Gildan'
+p165
+aS'Giuseppe Zanotti'
+p166
+aS'Giusto Manetti Battiloro'
+p167
+aS'Givenchy'
+p168
+aS'Golfino'
+p169
+aS'Gottex'
+p170
+aS'Goyard'
+p171
+aS'Gravati'
+p172
+aS'Great Greenland Furhouse'
+p173
+aS'Grendene'
+p174
+aS'Guararapes'
+p175
+aS'Gucci'
+p176
+aS'Guess'
+p177
+aS'Guy Laroche'
+p178
+aS'H Huntsman & Sons'
+p179
+aS'H J  Cave & Sons'
+p180
+aS'H&M'
+p181
+aS'Hackett London'
+p182
+aS'Haerfest'
+p183
+aS'Halston'
+p184
+aS'Hanes'
+p185
+aS'Hansengross'
+p186
+aS'Hardy Amies'
+p187
+aS'Haus Alkire'
+p188
+aS'Heavy Eco'
+p189
+aS'Helmut Lang'
+p190
+aS'Henry Poole & Co'
+p191
+aS'Herbert Johnson'
+p192
+aS'Hermes'
+p193
+aS'Hield'
+p194
+aS'Holly Fulton'
+p195
+aS'Hong Kong Tailors'
+p196
+aS'House of Flora'
+p197
+aS'Hudson s Bay'
+p198
+aS'Hugo Boss'
+p199
+aS'Hussein Chalayan'
+p200
+aS'Iceberg'
+p201
+aS'Inditex'
+p202
+aS'IRFE'
+p203
+aS'Isabel Marant'
+p204
+aS'Issey Miyake'
+p205
+aS'J C Penney'
+p206
+aS'J Linderberg'
+p207
+aS'Jane Carr'
+p208
+aS'Jason Wu'
+p209
+aS'Jasper Conran'
+p210
+aS'Jean Paul Gaultier'
+p211
+aS'Jeremie Pauzie'
+p212
+aS'Jeremy Scott'
+p213
+aS'Jil Sander'
+p214
+aS'Jill Stuart'
+p215
+aS'Jimmy Choo'
+p216
+aS'John Galliano'
+p217
+aS'John Richmond'
+p218
+aS'John Smedley'
+p219
+aS'John Varvatos'
+p220
+aS'Joseph'
+p221
+aS'Judith Leiber'
+p222
+aS'Karen Kane'
+p223
+aS'Karl Lagerfeld'
+p224
+aS'Kate Spade'
+p225
+aS'Katie Gallagher'
+p226
+aS'Kay Unger'
+p227
+aS'Kenzo'
+p228
+aS'Kering'
+p229
+aS'Kevan Hall'
+p230
+aS'Khaadi'
+p231
+aS'Kiton'
+p232
+aS'Kris Van Beirendonck'
+p233
+aS'Kristall Smolensk'
+p234
+aS'L Brands'
+p235
+aS'L K Bennett'
+p236
+aS'La Martina'
+p237
+aS'Lachasse'
+p238
+aS'Lacoste'
+p239
+aS'Lana Marks'
+p240
+aS'Lancel'
+p241
+aS'Lanvin'
+p242
+aS'Lardini'
+p243
+aS'Larusmiani'
+p244
+aS'Leooooo Marciano'
+p245
+aS'Li Ning'
+p246
+aS'Lining'
+p247
+aS'Linnanen'
+p248
+aS'LOEWE'
+p249
+aS'Lojas Renner'
+p250
+aS'Longchamp'
+p251
+aS'Lorenzo Merlino'
+p252
+aS'Loro Piana'
+p253
+aS'Louis Vuitton'
+p254
+aS'Luciano Soprani'
+p255
+aS'Luigi Borrelli'
+p256
+aS'Lululemon'
+p257
+aS'Luxottica'
+p258
+aS'LVMH'
+p259
+aS'Macy s'
+p260
+aS'Mad Carpennnnntier'
+p261
+aS'Madeleine Vramant'
+p262
+aS'Mainbocher'
+p263
+aS'Maison Margiela'
+p264
+aS'Malan Breton'
+p265
+aS'Malo'
+p266
+aS'Manolo Blahnik'
+p267
+aS'Marc Jacobs'
+p268
+aS'Marchesa'
+p269
+aS'Marimekko'
+p270
+aS'Marina Rinaldi'
+p271
+aS'Mario Hernandez'
+p272
+aS'Marks & Spencer'
+p273
+aS'Marni'
+p274
+aS'martin Margiela'
+p275
+aS'Mary Katrantzou'
+p276
+aS'Mataano'
+p277
+aS'Matthew Christopher'
+p278
+aS'Matthew Williamson'
+p279
+aS'Maui Jim'
+p280
+aS'Max Mara'
+p281
+aS'Maxfield Parrish'
+p282
+aS'MCM'
+p283
+aS'Metersbonwe'
+p284
+aS'Michael Kors'
+p285
+aS'Michael Michalsky'
+p286
+aS'Mihano Momosa'
+p287
+aS'Mimi Plange'
+p288
+aS'Missoni'
+p289
+aS'Miu Miu'
+p290
+aS'MJ Style'
+p291
+aS'Moncler'
+p292
+aS'Monique Lhuillier'
+p293
+aS'Moschino'
+p294
+aS'Mouawad'
+p295
+aS'Moynat'
+p296
+aS'Mulberry'
+p297
+aS'Narciso Rodriguez'
+p298
+aS'Neil Barrett'
+p299
+aS'Next'
+p300
+aS'Nigel Caboum'
+p301
+aS'Nina Ricci'
+p302
+aS'Nordstrom'
+p303
+aS'Norton & Sons'
+p304
+aS'Ochirly'
+p305
+aS'Onward Holdings'
+p306
+aS'Oroton'
+p307
+aS'Oscar and Jesus'
+p308
+aS'Oscar de la Renta'
+p309
+aS'Oxford Clothes'
+p310
+aS'Oxford Industries'
+p311
+aS'Ozwald Boateng'
+p312
+aS'Paco Rabanne'
+p313
+aS'Pantaloons'
+p314
+aS'Paul Smith'
+p315
+aS'Paule Ka'
+p316
+aS'Pauline Trigere'
+p317
+aS'Perry Ellis'
+p318
+aS'PETROUIMAN'
+p319
+aS'Philipp Plein'
+p320
+aS'Phillip Lim'
+p321
+aS'Pierre Cardin'
+p322
+aS'Poltrona Frau'
+p323
+aS'Pomellato'
+p324
+aS'Ports'
+p325
+aS'Prada'
+p326
+aS'Pringle of Scotland'
+p327
+aS'Project D'
+p328
+aS'Pvh Hq'
+p329
+aS'Rabih Kayrouz'
+p330
+aS'Raja Fashions'
+p331
+aS'Raketa'
+p332
+aS'Ralph & Russo'
+p333
+aS'Ralph Lauren'
+p334
+aS'Ralph Rucci'
+p335
+aS'Rayne'
+p336
+aS'Reda'
+p337
+aS'Reem Acra'
+p338
+aS'Reem Alasadi'
+p339
+aS'Regent'
+p340
+aS'Richemont'
+p341
+aS'Rick Owens'
+p342
+aS'RM'
+p343
+aS'Roberto Cavalli'
+p344
+aS'Rochas'
+p345
+aS'Rodarte'
+p346
+aS'Roland Mouret'
+p347
+aS'Ross Stores'
+p348
+aS'Rubin & Chapelle'
+p349
+aS'Rue du Mail'
+p350
+aS'S E H Kelly'
+p351
+aS'Safilo'
+p352
+aS'Salvatore Ferragamo'
+p353
+aS'Sant Blanc'
+p354
+aS'Sass & bide'
+p355
+aS'Satya Paul'
+p356
+aS'Scott Seale'
+p357
+aS'Sealup'
+p358
+aS'Sebastien Meunier'
+p359
+aS'Semir'
+p360
+aS'Septwolves'
+p361
+aS'Sergio Rossi'
+p362
+aS'Sermoneta Gloves'
+p363
+aS'Shanghai Tang'
+p364
+aS'Sherri Hill'
+p365
+aS'Shiatzy Chen'
+p366
+aS'Shreve & Co'
+p367
+aS'SINOIAN'
+p368
+aS'Smantha Thavasa'
+p369
+aS'Smythson'
+p370
+aS'SONGZIO'
+p371
+aS'Sonia Rykiel'
+p372
+aS'St John'
+p373
+aS'Star in the Hood'
+p374
+aS'Stella McCartney'
+p375
+aS'Stephane Rolland'
+p376
+aS'Stirling Cooper'
+p377
+aS'Strathberry'
+p378
+aS'Stylenite'
+p379
+aS'Supergroup'
+p380
+aS'Tapestry Inc'
+p381
+aS'TechnoMarine'
+p382
+aS'Ted Baker'
+p383
+aS'The Chelsea Cobbler'
+p384
+aS'The Daily Edited'
+p385
+aS'The Row'
+p386
+aS'Thierry Mugler'
+p387
+aS'Thom Browne'
+p388
+aS'Threeasfour'
+p389
+aS'Tibi'
+p390
+aS'Tim Hamilton'
+p391
+aS'Tjx'
+p392
+aS'Tod s'
+p393
+aS'Tom Ford'
+p394
+aS'Tomas Maier'
+p395
+aS'Tommy Hilfiger'
+p396
+aS'Tony Bowls'
+p397
+aS'Tori Richard'
+p398
+aS'Tory Burch'
+p399
+aS'Trands'
+p400
+aS'Trump'
+p401
+aS'Trussardi'
+p402
+aS'Tumbler and Tipsy'
+p403
+aS'Tumi Inc'
+p404
+aS'Turnbull & Asser'
+p405
+aS'Under Armour'
+p406
+aS'United Arrows'
+p407
+aS'Urban Outfitters'
+p408
+aS'Valentino'
+p409
+aS'Van De Velde'
+p410
+aS'Vera Bradley'
+p411
+aS'Vera Wang'
+p412
+aS'Veronique Branquinho'
+p413
+aS'Versace'
+p414
+aS'Vf'
+p415
+aS'Viktor & Rolf'
+p416
+aS'Vipshop'
+p417
+aS'Vivienne Tam'
+p418
+aS'Vivienne Westwood'
+p419
+aS'Warmenhoven & Venderbos'
+p420
+aS'Wendy Dagoworthy'
+p421
+aS'Wolverine'
+p422
+aS"Women's Home Industries"
+p423
+aS'Wooyoungmi'
+p424
+aS'Workers for Freedom'
+p425
+aS'Wunderkind'
+p426
+aS'Xander Kostroma'
+p427
+aS'Xander Zhou'
+p428
+aS'Yeohlee Teng'
+p429
+aS'Yohji Yamamoto'
+p430
+aS'Yoox Net A Porter'
+p431
+aS'Yotam Solomon'
+p432
+aS'Yuvna Kim'
+p433
+aS'Yves Saint Laurent'
+p434
+aS'Zalando'
+p435
+aS'Zeena Zaki'
+p436
+a.

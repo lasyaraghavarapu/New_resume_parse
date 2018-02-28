@@ -1,0 +1,5 @@
+SAP
+Oracle
+ERP
+MRP
+material requirements planning
